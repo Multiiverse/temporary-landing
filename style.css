@@ -1,9 +1,9 @@
-p {
+body * {
   font-family: Helvetica;
 }
 
 code {
-    font-family: monospace;
+    font-family: monospace !important;
 }
 
 body.center {
