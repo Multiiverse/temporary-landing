@@ -6,7 +6,7 @@ code {
     font-family: monospace;
 }
 
-body .center {
+body.center {
     position: absolute;
     top: 50%;
     left: 50%;
